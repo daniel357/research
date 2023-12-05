@@ -1,0 +1,24 @@
+# **Experimental Framework for Airline Price Prediction**
+
+## **Chapter 1: Methodological Modeling**
+
+### **Section 1.1: Data Acquisition and Preprocessing**
+
+- **Primary Dataset**: Leverage the dataset as outlined in the referenced project report, encompassing variables such as airline names, journey dates, routes, times, and pricing.
+- **Supplementary Data Integration**: Enrich the primary dataset with macroeconomic indicators, aviation fuel prices, and seasonal factors to capture external influences on pricing dynamics.
+- **Data Cleansing and Normalization**: Apply rigorous preprocessing techniques to ensure data quality and consistency, including normalization of continuous variables and encoding of categorical features.
+
+### **Section 1.2: Experimental Design and Hypothesis Formulation**
+
+- **Predictive Modeling Framework**: Construct a suite of predictive models, including but not limited to Random Forest, Neural Networks, and Gradient Boosting Machines.
+- **Hypothesis**: Propose that advanced machine learning techniques can outperform traditional models in predicting airline prices with greater accuracy and reliability.
+
+### **Section 1.3: Model Validation and Results Evaluation**
+
+- **Cross-Validation Strategy**: Implement a k-fold cross-validation method to robustly evaluate model performance, mitigating the risk of overfitting.
+- **Performance Metrics**: Employ Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Coefficient of Determination (R²) as primary metrics. For classification elements, if present, utilize the Area Under the Receiver Operating Characteristic Curve (AUC-ROC).
+
+### **Section 1.4: Comparative Analysis with Existing Models**
+
+- **Benchmarking Against Literature**: Systematically review and compare against state-of-the-art models documented in existing literature.
+- **Analytical Framework**: Develop a detailed framework for comparing the novel approach with existing methodologies, focusing on prediction accuracy, computational efficiency, and scalability.
